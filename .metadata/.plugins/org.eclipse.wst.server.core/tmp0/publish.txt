@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Aug 23 22:46:24 IST 2021
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-web\\5.2.4.RELEASE\\spring-web-5.2.4.RELEASE.jar=C\:\\tomcat8\\wtpwebapps\\SearchProject\\WEB-INF\\lib\\spring-web-5.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:MavenDemoProject=C\:\\tomcat8\\wtpwebapps\\MavenDemoProject
+org.eclipse.jst.j2ee.server\:SearchProject=C\:\\tomcat8\\wtpwebapps\\SearchProject

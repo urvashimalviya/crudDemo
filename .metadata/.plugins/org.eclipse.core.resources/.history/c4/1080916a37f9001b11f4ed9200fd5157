@@ -1,0 +1,5 @@
+package com.maven.demo.service;
+
+public class UserService {
+
+}

@@ -1,0 +1,14 @@
+package com.demo.search.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class SearchController {
+	
+	
+	@RequestMapping("/help")
+	public String handleApp(){
+		System.out.println("Help is running");
+		return "help";
+	}
+
+}

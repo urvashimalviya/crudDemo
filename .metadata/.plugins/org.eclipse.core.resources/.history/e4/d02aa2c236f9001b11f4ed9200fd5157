@@ -1,0 +1,13 @@
+package com.maven.demo.dao;
+
+import com.maven.demo.model.User;
+
+public class UserDAO {
+
+	public int saveUser(User user) {
+
+		return 0;
+
+	}
+
+}

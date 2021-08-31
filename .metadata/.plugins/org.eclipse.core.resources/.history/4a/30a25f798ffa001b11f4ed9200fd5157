@@ -1,0 +1,17 @@
+package com.demo.search.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class FormController {
+	
+	
+	
+	@RequestMapping("/complex")
+	public String showForm(){
+		System.out.println("Complex Form Handler Begins...");
+		return "complex_form";
+	}
+
+}
